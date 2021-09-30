@@ -1,0 +1,17 @@
+{
+  "name": "outside-cli",
+  "version": "1.0.0",
+  "description": "get the current weather and 10-day forecast for any location",
+  "main": "index.js",
+  "bin": {
+    "outside": "bin/outside"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "github.com/yimikao",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
